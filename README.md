@@ -53,4 +53,4 @@ streamlit run app.py
 
 ## Author
 
-Mirza Muzammil Baig
+Ameer Khan
